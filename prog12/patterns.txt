@@ -1,0 +1,44 @@
+//1:q with no following u
+^.*[q][^u].*$
+
+//2: contains ookkee
+^.*(ookkee).*$
+
+//3: start and end with the same 4 character sequence
+^(....).*\1$
+
+//4. contain pev and start with g
+^[g].*(pev).*$
+
+//5. Using only the top row length at least 6
+^[qwertyuiop]{6,}$
+
+//6. contain each vowel in order
+^[^aeiou]*[a][^aeiou]*[e][^aeiou]*[i][^aeiou]*[o][^aeiou]*[u][^aeiou]*$
+
+//7. contains spb and has at least 2 r's
+^(.*[r]+.*[r]+.*(spb).*)|(.*[r]+.*(spb).*[r]+.*)|(.*(spb).*[r]+.*[r]+.*)&
+    
+//8. starts with a and in alphabetical order
+^[a][b]*[c]*[d]*[e]*[f]*[g]*[h]*[i]*[j]*[k]*[l]*[m]*[n]*[o]*[p]*[q]*[r]*[s]*[t]*[u]*[v]*[w]*[x]*[y]*[z]*$
+   
+//9. an even number of a's and starts with ph  ^(ph)([^a]*[a][^a]*[a][^a]*)+$
+unsolved
+
+//10. no vowels but "y'
+^[^aeiou]*[y][^aeiou]*$
+        
+//11. no consonants
+^[^aeiouy]+$   
+        
+//12. alternating vowels and consonants ( consider y a consonant) |(([^aeiou][aeiou]){6,}[^aeiou]?)
+^([aeiou][^aeiou]){6}[aeiou]?$
+
+//13. tripled letters ^.*([a-z])\1{2,}.*$
+^.*([a-z])\1{2,}.*$
+
+//14. Contains 2 y's
+^[z].*[y]+.*[y]+.*$
+
+//15. palindromes of length 6 or 7
+^([a-z])([a-z])([a-z])[a-z]?\3\2\1$
