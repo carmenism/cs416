@@ -1,0 +1,402 @@
+-------------------------------12/2/08 7:56 PM-------------------------------
+
+---------------------------------------------------------------------------------------------
+-------------------------------12/2/08 7:58 PM-------------------------------
+
+---------------------------------------------------------------------------------------------
+---------
+head.txt
+---------
+++++++++++++++++++12/2/08 8:13 PM++++++++++++++++++
+>CL18.*
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@@@@@@@@@@@@@@@@@@@12/2/08 8:13 PM@@@@@@@@@@@@@@@@@@@
+>CL18Contig1 :1: (3035,3042) <eol>
+>CL18Contig2 :2: (352,359) <eol>
+>CL18Contig3 :2: (2618,2625) <eol>
+>CL18Contig5 :2: (333,340) <eol>
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+++++++++++++++++++12/2/08 8:16 PM++++++++++++++++++
+.*\(.*\).*\(.*\).*
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@@@@@@@@@@@@@@@@@@@12/2/08 8:16 PM@@@@@@@@@@@@@@@@@@@
+>CL5Contig1 :0: (729,736) (1690,1697) <eol>
+>CL12Contig1 :1: (5675,5682) (10715,10722) <eol>
+>CL30Contig2 :3: (956,963) (5341,5348) <eol>
+>CL45Contig1 :4: (1484,1491) (6953,6960) <eol>
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+++++++++++++++++++12/2/08 8:22 PM++++++++++++++++++
+.*\([3-9]\d{3},.*\)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@@@@@@@@@@@@@@@@@@@12/2/08 8:22 PM@@@@@@@@@@@@@@@@@@@
+>CL9Contig6 :0: (3471,3478)<eol>
+>CL12Contig1 :1: (5675,5682) (10715,10722)<eol>
+>CL18Contig1 :1: (3035,3042)<eol>
+>CL30Contig2 :3: (956,963) (5341,5348)<eol>
+>CL34Contig4 :3: (4297,4304)<eol>
+>CL45Contig1 :4: (1484,1491) (6953,6960)<eol>
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+++++++++++++++++++12/2/08 8:30 PM++++++++++++++++++
+.*\(([3-9])|([1-9]\d{1})\d{3},.*\).*
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@@@@@@@@@@@@@@@@@@@12/2/08 8:30 PM@@@@@@@@@@@@@@@@@@@
+>CL5Contig1 :0: (7<eol>
+>CL9Contig6 :0: (3<eol>
+>CL9Contig10 :0: (9<eol>
+>CL12Contig1 :1: (5<eol>
+10715,10722) <eol>
+>CL18Contig1 :1: (3<eol>
+>CL18Contig2 :2: (3<eol>
+>CL18Contig5 :2: (3<eol>
+>CL25Contig5 :3: (3<eol>
+>CL30Contig2 :3: (956,963) (5<eol>
+>CL31Contig2 :3: (3<eol>
+>CL34Contig4 :3: (4<eol>
+>CL45Contig1 :4: (1484,1491) (6<eol>
+>CL45Contig2 :5: (3<eol>
+>CL58Contig2 :5: (4<eol>
+>CL62Contig1 :5: (6<eol>
+>CL62Contig3 :5: (8<eol>
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+-------------------------------12/2/08 8:33 PM-------------------------------
+
+---------------------------------------------------------------------------------------------
+---------
+head.txt
+---------
+++++++++++++++++++12/2/08 8:34 PM++++++++++++++++++
+CL18.*
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@@@@@@@@@@@@@@@@@@@12/2/08 8:34 PM@@@@@@@@@@@@@@@@@@@
+CL18Contig1 :1: (3035,3042) <eol>
+CL18Contig2 :2: (352,359) <eol>
+CL18Contig3 :2: (2618,2625) <eol>
+CL18Contig5 :2: (333,340) <eol>
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+++++++++++++++++++12/2/08 8:35 PM++++++++++++++++++
+.*\(.*\).*\(.*\).*
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@@@@@@@@@@@@@@@@@@@12/2/08 8:35 PM@@@@@@@@@@@@@@@@@@@
+>CL5Contig1 :0: (729,736) (1690,1697) <eol>
+>CL12Contig1 :1: (5675,5682) (10715,10722) <eol>
+>CL30Contig2 :3: (956,963) (5341,5348) <eol>
+>CL45Contig1 :4: (1484,1491) (6953,6960) <eol>
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+++++++++++++++++++12/2/08 8:38 PM++++++++++++++++++
+^[^(]\([3-9]\d{3,}.*$
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@@@@@@@@@@@@@@@@@@@12/2/08 8:38 PM@@@@@@@@@@@@@@@@@@@
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@12/2/08 8:38 PM@@@@@@@@@@@@@@@@@@@
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@12/2/08 8:38 PM@@@@@@@@@@@@@@@@@@@
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@12/2/08 8:38 PM@@@@@@@@@@@@@@@@@@@
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+++++++++++++++++++12/2/08 8:42 PM++++++++++++++++++
+^[^)]*\([3-9]\d{3,}.*$
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@@@@@@@@@@@@@@@@@@@12/2/08 8:42 PM@@@@@@@@@@@@@@@@@@@
+>CL9Contig6 :0: (3471,3478) <eol>
+>CL12Contig1 :1: (5675,5682) (10715,10722) <eol>
+>CL18Contig1 :1: (3035,3042) <eol>
+>CL34Contig4 :3: (4297,4304) <eol>
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+---------
+dna-seq.txt
+---------
+++++++++++++++++++12/2/08 8:45 PM++++++++++++++++++
+[A|C|T]{30,}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@@@@@@@@@@@@@@@@@@@12/2/08 8:45 PM@@@@@@@@@@@@@@@@@@@
+CATTCCTCCCCATATTTCAACTATCCATTCATCTC<eol>
+AATTTCAATTTTCATATTCAATTCTAATTTCTACTAT<eol>
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+++++++++++++++++++12/2/08 8:46 PM++++++++++++++++++
+[^G]{30,}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@@@@@@@@@@@@@@@@@@@12/2/08 8:46 PM@@@@@@@@@@@@@@@@@@@
+>ANIS1000.x1  CHROMAT_FILE: ANIS1000.x1 PHD_FILE: ANIS1000.x1.phd.1 CHEM: term DYE: ET TIME: Wed Sep  1 22:12:20 2004
+AAC<eol>
+XXXXXXXXXXXXXXXXXXXXXXXXXXA
+CTACAAATCAAT<eol>
+T
+>ANIS1000.y1  CHROMAT_FILE: ANIS1000.y1 PHD_FILE: ANIS1000.y1.phd.1 CHEM: term DYE: ET TIME: Thu Sep  2 08:24:29 2004
+A<eol>
+CATTCCTCCCCATATTTCAACTATCCATTCATCTC
+CATTCTACC<eol>
+AATTTCAATTTTCATATTCAATTCTAATTTCTACTAT<eol>
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+++++++++++++++++++12/2/08 8:47 PM++++++++++++++++++
+[^G|\s]{30,}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@@@@@@@@@@@@@@@@@@@12/2/08 8:47 PM@@@@@@@@@@@@@@@@@@@
+CATTCCTCCCCATATTTCAACTATCCATTCATCTC<eol>
+AATTTCAATTTTCATATTCAATTCTAATTTCTACTAT<eol>
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+++++++++++++++++++12/2/08 8:48 PM++++++++++++++++++
+[^A|\s]{30,}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@@@@@@@@@@@@@@@@@@@12/2/08 8:48 PM@@@@@@@@@@@@@@@@@@@
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+++++++++++++++++++12/2/08 8:48 PM++++++++++++++++++
+[^C|\s]{30,}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@@@@@@@@@@@@@@@@@@@12/2/08 8:48 PM@@@@@@@@@@@@@@@@@@@
+AATAAGGTGTGGTGATTGTAGGTGTGTTGGTAA<eol>
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+++++++++++++++++++12/2/08 8:48 PM++++++++++++++++++
+[^T|\s]{30,}
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@@@@@@@@@@@@@@@@@@@12/2/08 8:48 PM@@@@@@@@@@@@@@@@@@@
+GACGXXXXXXXXXXXXXXXXXXXXXXXXXXA<eol>
+AGAAAAAAAAAAAAAANNNGNAGGGGNCAGA<eol>
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+---------
+dickens.txt
+---------
+++++++++++++++++++12/2/08 8:52 PM++++++++++++++++++
+[A-Z]{1,}\w*[.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@@@@@@@@@@@@@@@@@@@12/2/08 8:52 PM@@@@@@@@@@@@@@@@@@@
+France.<eol>
+Mrs.<eol>
+Westminster.<eol>
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+++++++++++++++++++12/2/08 8:54 PM++++++++++++++++++
+[A-Z]{1,}[\w|\s]*[.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@@@@@@@@@@@@@@@@@@@12/2/08 8:54 PM@@@@@@@@@@@@@@@@@@@
+France.<eol>
+Mrs.<eol>
+Life Guards had heralded the sublime appearance by announcing that arrangements were made for the swallowing up of London and Westminster.<eol>
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+++++++++++++++++++12/2/08 8:55 PM++++++++++++++++++
+[A-Z][\w|\s]*[.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@@@@@@@@@@@@@@@@@@@12/2/08 8:55 PM@@@@@@@@@@@@@@@@@@@
+France.<eol>
+Mrs.<eol>
+Life Guards had heralded the sublime appearance by announcing that arrangements were made for the swallowing up of London and Westminster.<eol>
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+++++++++++++++++++12/2/08 8:56 PM++++++++++++++++++
+[A-Z][\w|\s|:|,]*[.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@@@@@@@@@@@@@@@@@@@12/2/08 8:56 PM@@@@@@@@@@@@@@@@@@@
+France.<eol>
+In both countries it was clearer than crystal to the lords of the State preserves of loaves and fishes, that things in general were settled for ever.<eol>
+Spiritual revelations were conceded to England at that favoured period, as at this.<eol>
+Mrs.<eol>
+Life Guards had heralded the sublime appearance by announcing that arrangements were made for the swallowing up of London and Westminster.<eol>
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+++++++++++++++++++12/2/08 8:58 PM++++++++++++++++++
+[A-Z][\w|\s|;|:|\-|,]*[.]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@@@@@@@@@@@@@@@@@@@12/2/08 8:58 PM@@@@@@@@@@@@@@@@@@@
+IT WAS the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way- in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.<eol>
+There were a king with a large jaw and a queen with a plain face, on the throne of England; there were a king with a large jaw and a queen with a fair face, on the throne of France.<eol>
+In both countries it was clearer than crystal to the lords of the State preserves of loaves and fishes, that things in general were settled for ever.<eol>
+It was the year of Our Lord one thousand seven hundred and seventy-five.<eol>
+Spiritual revelations were conceded to England at that favoured period, as at this.<eol>
+Mrs.<eol>
+Southcott had recently attained her five-and-twentieth blessed birthday, of whom a prophetic private in the Life Guards had heralded the sublime appearance by announcing that arrangements were made for the swallowing up of London and Westminster.<eol>
+Mere messages in the earthly order of events had lately come to the English Crown and People, from a congress of British subjects in America: which, strange to relate, have proved more important to the human race than any communications yet received through any of the chickens of the Cock-lane brood.<eol>
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+++++++++++++++++++12/2/08 9:03 PM++++++++++++++++++
+[\w|\s]*
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+====================12/2/08 9:03 PM====================
+
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+-
+
+,
+
+,
+
+,
+
+,
+
+.
+
+,
+
+;
+
+,
+
+.
+
+,
+
+.
+
+-
+
+.
+
+,
+
+.
+
+.
+
+-
+
+-
+
+,
+
+.
+
+-
+
+,
+
+,
+
+(
+
+)
+
+.
+
+,
+
+:
+
+,
+
+,
+
+-
+
+.
+
+============================================================
+++++++++++++++++++12/2/08 9:04 PM++++++++++++++++++
+[A-Z][a-z]*
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@@@@@@@@@@@@@@@@@@@12/2/08 9:04 PM@@@@@@@@@@@@@@@@@@@
+I<eol>
+T<eol>
+W<eol>
+A<eol>
+S<eol>
+Light<eol>
+Darkness<eol>
+Heaven<eol>
+There<eol>
+England<eol>
+France<eol>
+In<eol>
+State<eol>
+It<eol>
+Our<eol>
+Lord<eol>
+Spiritual<eol>
+England<eol>
+Mrs<eol>
+Southcott<eol>
+Life<eol>
+Guards<eol>
+London<eol>
+Westminster<eol>
+Even<eol>
+Cock<eol>
+Mere<eol>
+English<eol>
+Crown<eol>
+People<eol>
+British<eol>
+America<eol>
+Cock<eol>
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+++++++++++++++++++12/2/08 9:06 PM++++++++++++++++++
+((of)|(the))[  ][A-Z][a-z]*
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@@@@@@@@@@@@@@@@@@@12/2/08 9:06 PM@@@@@@@@@@@@@@@@@@@
+of Light<eol>
+of Darkness<eol>
+of England<eol>
+of France<eol>
+the State<eol>
+of Our<eol>
+the Life<eol>
+of London<eol>
+the Cock<eol>
+the English<eol>
+of British<eol>
+the Cock<eol>
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+++++++++++++++++++12/2/08 9:08 PM++++++++++++++++++
+[A-Z|a-z]+[-][A-Z|a-z]+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@@@@@@@@@@@@@@@@@@@12/2/08 9:08 PM@@@@@@@@@@@@@@@@@@@
+seventy-five<eol>
+five-and<eol>
+Cock-lane<eol>
+Cock-lane<eol>
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+++++++++++++++++++12/2/08 9:09 PM++++++++++++++++++
+[A-Z|a-z]+([-][A-Z|a-z]+)+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+@@@@@@@@@@@@@@@@@@@12/2/08 9:09 PM@@@@@@@@@@@@@@@@@@@
+seventy-five<eol>
+five-and-twentieth<eol>
+Cock-lane<eol>
+Cock-lane<eol>
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
